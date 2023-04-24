@@ -22,5 +22,3 @@ Then in a web browser, type the following URL: http://127.0.0.1:5666/hello.html.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-some test changes
